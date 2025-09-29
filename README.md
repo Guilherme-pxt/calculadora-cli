@@ -1,20 +1,23 @@
 ﻿# Calculadora CLI em Python
 
-Calculadora interativa com acumulador, operaÃ§Ãµes bÃ¡sicas e validaÃ§Ãµes.
+Calculadora interativa com acumulador, operações básicas e validações.
 
 ## Como executar
 
-`ash
+```bash
 python calculadora.py
-`
+```
 
-## OperaÃ§Ãµes
-- Soma, SubtraÃ§Ã£o, MultiplicaÃ§Ã£o, DivisÃ£o
-- PotÃªncia, Resto, DivisÃ£o inteira
-- Raiz n-Ã©sima
-- Inverso, Absoluto, NegaÃ§Ã£o
+## Operações
+- Soma, Subtração, Multiplicação, Divisão
+- Potência, Resto, Divisão inteira
+- Raiz n-ésima
+- Inverso, Absoluto, Negação
 - Porcentagem
 
 ## Acumulador
-O resultado Ã© armazenado e usado automaticamente como primeiro operando.
+O resultado é armazenado e usado automaticamente como primeiro operando.
+
+## Requisitos
+- Python 3.10+ (sem dependências externas)
 
